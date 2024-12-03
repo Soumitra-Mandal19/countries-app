@@ -1,0 +1,27 @@
+.root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    gap: 10px;
+
+}
+
+.countryFlags {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    border-radius: 10px;
+
+}
+
+.image{
+    width: 130px;
+    height: 100px; 
+}
